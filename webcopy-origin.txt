@@ -1,0 +1,1140 @@
+Uri: https://cdn.prod.website-files.com/672799259500d2477d1eafa5/6732fb6df497a3fa7a857752_Vector 7.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\672799259500d2477d1eafa5\6732fb6df497a3fa7a857752_Vector 7.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\inversweb.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\s\poppins\v24\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/virtuo/assets/css/plugins/odometer.css
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\css\plugins\odometer.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/virtuo/assets/css/plugins/swiper.css
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\css\plugins\swiper.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/virtuo/assets/css/style.css
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\css\style.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/virtuo/assets/css/vendor/animate.min.css
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\css\vendor\animate.min.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/virtuo/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/virtuo/assets/css/vendor/fontawesome.css
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\css\vendor\fontawesome.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/virtuo/assets/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/about/01.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\about\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/about/logo-1.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\about\logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/about/logo-2.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\about\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/about/transparent-gradient.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\about\transparent-gradient.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/01.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/banner-background-02.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\banner-background-02.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/banner-background-04.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\banner-background-04.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/banner-background-one.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\banner-background-one.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/banner-six-shape.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\banner-six-shape.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/banner-user-image-04.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\banner-user-image-04.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/banner-user-image-one.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\banner-user-image-one.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/banner-user-image-two-red-bg.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\banner-user-image-two-red-bg.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/banner-user-image-two.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\banner-user-image-two.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/hi.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\hi.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/instructor.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\instructor.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/left-bg-text-para-doc.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\left-bg-text-para-doc.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/logo-under-image-2.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\logo-under-image-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/logo-under-image.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\logo-under-image.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/portfolio-image-1.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\portfolio-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/reeni-main-demo.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\reeni-main-demo.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/right-bg-text-para-doc.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\right-bg-text-para-doc.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/shape/01.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\shape\01.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/shape/02.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\shape\02.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/shape/03.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\shape\03.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/shape/04.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\shape\04.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/shape/light-left.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\shape\light-left.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/banner/shape/light.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\banner\shape\light.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/01.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/02.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\02.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/03.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\03.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/04.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\04.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/05.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\05.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/06.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\06.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-footer.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-1.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-10.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-10.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-11.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-11.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-12.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-12.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-13.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-13.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-2.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-3.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-4.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-5.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-6.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-6.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-7.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-8.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/bg-image-9.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\bg-image-9.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/bg/patern.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\bg\patern.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/blog/blog-img-6.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\blog\blog-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/blog/blog-img-7.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\blog\blog-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/blog/blog-img-8.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\blog\blog-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/breadcrumb/breadcum-bg.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\breadcrumb\breadcum-bg.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/button/btg-bg-2.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\button\btg-bg-2.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/button/btg-bg.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\button\btg-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/custom-line/custom-line.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\custom-line\custom-line.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/coming-soon-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\coming-soon-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/coming-soon.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\coming-soon.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-1-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-1-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-1.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-1.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-10-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-10-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-10.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-10.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-11-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-11-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-11.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-11.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-12-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-12-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-12.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-12.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-13-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-13-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-13.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-13.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-14-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-14-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-14.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-14.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-15-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-15-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-15.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-15.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-16-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-16-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-16.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-16.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-17-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-17-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-17.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-17.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-2-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-2-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-2.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-3-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-3-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-3.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-3.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-4-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-4-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-4.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-4.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-5-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-5-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-5.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-5.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-6-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-6-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-6.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-6.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-7-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-7-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-7.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-7.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-8-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-8-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-8.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-8.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-9-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-9-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/demo/home-9.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\demo\home-9.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/experiences/01.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\experiences\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/experiences/02.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\experiences\02.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/experiences/expert-img.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\experiences\expert-img.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/favicon.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/adobe.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\adobe.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/app.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\app.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/branding.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\branding.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/cursor-x.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\cursor-x.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/figma.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\figma.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/framer.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\framer.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/google.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\google.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/icon-01.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\icon-01.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/icon-02.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\icon-02.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/icon-03.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\icon-03.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/icon-04.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\icon-04.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/meta.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\meta.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/mico.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\mico.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/notion.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\notion.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/prd-design.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\prd-design.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/ui-ux.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\ui-ux.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/webflow.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\webflow.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/icons/zeplin.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\icons\zeplin.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/latest-portfolio/portfoli-img-1.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\latest-portfolio\portfoli-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/latest-portfolio/portfoli-img-2.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\latest-portfolio\portfoli-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/latest-portfolio/portfoli-img-3.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\latest-portfolio\portfoli-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/latest-portfolio/portfoli-img-4.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\latest-portfolio\portfoli-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/logo/banner-user-image-04.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\logo\banner-user-image-04.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/logo/dark-logo-virtuo.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\logo\dark-logo-virtuo.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/logo/logo-white.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\logo\logo-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/logo/man.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\logo\man.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/logo/white-logo-reeni.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\logo\white-logo-reeni.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/my-expertise/logo-4.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\my-expertise\logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/my-expertise/logo-5.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\my-expertise\logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/my-expertise/logo-6.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\my-expertise\logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/my-skill/01.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\my-skill\01.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/my-skill/02.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\my-skill\02.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/my-skill/04.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\my-skill\04.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/my-skill/05.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\my-skill\05.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/our-supported-company/company-logo-1.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\our-supported-company\company-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/our-supported-company/company-logo-2.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\our-supported-company\company-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/our-supported-company/company-logo-3.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\our-supported-company\company-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/our-supported-company/company-logo-4.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\our-supported-company\company-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/our-supported-company/company-logo-5.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\our-supported-company\company-logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/our-supported-company/company-logo-6.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\our-supported-company\company-logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/our-supported-company/company-logo-7.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\our-supported-company\company-logo-7.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/our-supported-company/company-logo-8.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\our-supported-company\company-logo-8.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/01.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/02.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\02.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/03.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\03.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/04.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\04.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/05.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\05.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/06.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\06.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/07.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\07.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/08.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\08.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/portfolio-01.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\portfolio-01.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/portfolio-02.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\portfolio-02.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/portfolio-03.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\portfolio-03.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/portfolio/portfolio-04.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\portfolio\portfolio-04.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/services/latest-services-user-image.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\services\latest-services-user-image.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/skill/figma.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\skill\figma.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/skill/framer.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\skill\framer.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/skill/laravel.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\skill\laravel.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/skill/react.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\skill\react.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/skill/webflow.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\skill\webflow.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/skill/wordpress.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\skill\wordpress.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/testimonial/client-img-1.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\testimonial\client-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/testimonial/left-bg-img.png
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\testimonial\left-bg-img.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/testimonial/quat-logo.svg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\testimonial\quat-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/testimonial/testimonial-2.jpg
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\testimonial\testimonial-2.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/video/01.webp
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\video\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/video/fitness.mp4
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\video\fitness.mp4
+Content Type: video/mp4
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/video/intro.mp3
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\video\intro.mp3
+Content Type: audio/mpeg
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/video/intro.mp4
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\video\intro.mp4
+Content Type: video/mp4
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/video/patern-white.mp4
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\video\patern-white.mp4
+Content Type: video/mp4
+
+Uri: https://inversweb.com/product/html/virtuo/assets/images/video/patern.mp4
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\images\video\patern.mp4
+Content Type: video/mp4
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/main.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/animation.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\animation.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/contact.form.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\contact.form.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/gsap.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\gsap.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/isotop.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\isotop.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/odometer.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\odometer.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/scrolltigger.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\scrolltigger.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/scrolltoplugins.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\scrolltoplugins.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/smoothscroll.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\smoothscroll.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/splittext.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\splittext.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/swiper.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\swiper.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/text-type.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\text-type.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/plugins/tilt.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\plugins\tilt.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/appear.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\appear.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/backtop.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\backtop.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/intro-video.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\intro-video.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/jquery-one-page-nav.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\jquery-one-page-nav.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/jquery.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\jquery.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/modernizer.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\modernizer.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/particle.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\particle.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/tilt.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\tilt.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/twinmax.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\twinmax.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/waw.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\waw.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/assets/js/vendor/waypoints.min.js
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\assets\js\vendor\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/virtuo/index-02-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-02-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-02.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-02.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-03-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-03-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-03.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-03.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-04-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-04-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-04.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-04.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-05-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-05-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-05.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-05.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-06-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-06-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-06.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-06.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-07-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-07-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-07.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-07.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-08-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-08-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-08.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-08.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-09-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-09-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-09.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-09.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-10-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-10-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-10.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-10.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-11-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-11-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-11.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-11.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-12-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-12-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-12.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-12.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-13-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-13-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-13.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-13.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-14-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-14-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-14.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-14.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-15-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-15-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-15.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-15.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-16-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-16-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-16.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-16.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-17-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-17-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-17.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-17.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index-white.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/virtuo/index.html
+File Name: C:\Downloaded Web Sites\inversweb.com\product\html\virtuo\index.html
+Content Type: text/html
+
+Uri: https://marveltheme.com/tf/html/bentofolio-html/assets/js/clipboard.min.js
+File Name: C:\Downloaded Web Sites\inversweb.com\tf\html\bentofolio-html\assets\js\clipboard.min.js
+Content Type: application/javascript
+
